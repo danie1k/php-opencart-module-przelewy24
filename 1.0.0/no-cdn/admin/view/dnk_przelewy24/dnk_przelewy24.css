@@ -1,0 +1,12 @@
+#menu > ul > li > ul { margin-top: -2px; }
+#menu > ul li ul a { height: auto !important; }
+#menu > ul li ul ul { left: -8px; margin-top: -32px; }
+.ms-container { width: 100%; }
+.input-group-addon.minw { min-width: 280px; text-align: left; }
+.popover { cursor: pointer; }
+.popover .popover-content { min-width: 200px; font-size: 11px; color: #f00; font-weight: normal !important; }
+.btn-group .active { font-weight: bold; }
+.payment_method_group { display: none; }
+.payment_method_selected { display: block; }
+.lang-name { display: none; }
+

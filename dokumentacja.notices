@@ -1,0 +1,34 @@
+Notices:
+
+$NT#001   Instalator nie obsługuje języka Twojego systemu "%s". Użyto domyślnego: %s.
+$NT#002   Pusty/niepoprawny plik z tłumaczeniem instalatora na język Twojego systemu. Użyto wartości domyślnych.
+$NT#003   Pusty plik tłumaczenia modułu dla języka: %s.
+$NT#004   Następujące zanistalowane w sklepie języki, nie są obsługiwane przez moduł: %s.
+$NT#005   Dla wszystkich zainstalowanych w sklepie języków moduł zostanie zainstalowany w języku: %s.
+
+
+
+Errors:
+
+$ERR#000   Musisz być zalogowany do Administracji, aby zainstalować ten moduł. <a href="%s" class="colorbox colorbox-reload" title="Po zalogowaniu, po prostu zamknij to okno!">Kliknij, by przejść teraz do logowania</a>
+$ERR#001   Następujące katalogi są zabezpieczone przed zapisem: %s %s
+$ERR#002   Twoje uprawnienia są niewystarczające do zainstalowania tego modułu!
+$ERR#003   Instalator nie znalazł żadnego pliku tłumaczeń modułu!
+$ERR#004   Wszystkie znalezione pliki tłumaczeń modułu puste!
+
+
+admin files:
+view/image/payment/dnk_przelewy24.png
+view/image/payment/dnk_przelewy24_small.png
+view/image/payment/ms-switch.png
+view/stylesheet/dnk_przelewy24.css
+view/javascript/dnk_przelewy24.js
+
+
+
+other files:
+system/cache/dnk_przelewy24-paychannels.json
+
+
+
+

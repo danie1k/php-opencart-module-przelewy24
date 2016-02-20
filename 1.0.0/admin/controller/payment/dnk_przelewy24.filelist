@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<filelist>
+	<admin>
+	</admin>
+	<catalog>
+	
+	</catalog>
+	<system>
+		<file prefix="DIR_CACHE">dnk_przelewy24.testfile</file>
+	</system>
+</filelist> 
